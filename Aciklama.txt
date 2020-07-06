@@ -3,3 +3,5 @@ Bilge Adam Yazılım Dersleri 1. Gün
 git üzerinden yapılan değişiklikler
 
 Erster Kurs Tag
+
+İlk Kurs Günü
